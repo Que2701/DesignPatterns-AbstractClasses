@@ -1,0 +1,6 @@
+D:\Source\Repos\Projects\Design Patterns\Abstract\DesignPatterns-AbstractClasses\ConsoleUI\DemoLibrary\obj\Debug\DemoLibrary.csprojAssemblyReference.cache
+D:\Source\Repos\Projects\Design Patterns\Abstract\DesignPatterns-AbstractClasses\ConsoleUI\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+D:\Source\Repos\Projects\Design Patterns\Abstract\DesignPatterns-AbstractClasses\ConsoleUI\DemoLibrary\bin\Debug\DemoLibrary.dll
+D:\Source\Repos\Projects\Design Patterns\Abstract\DesignPatterns-AbstractClasses\ConsoleUI\DemoLibrary\bin\Debug\DemoLibrary.pdb
+D:\Source\Repos\Projects\Design Patterns\Abstract\DesignPatterns-AbstractClasses\ConsoleUI\DemoLibrary\obj\Debug\DemoLibrary.dll
+D:\Source\Repos\Projects\Design Patterns\Abstract\DesignPatterns-AbstractClasses\ConsoleUI\DemoLibrary\obj\Debug\DemoLibrary.pdb

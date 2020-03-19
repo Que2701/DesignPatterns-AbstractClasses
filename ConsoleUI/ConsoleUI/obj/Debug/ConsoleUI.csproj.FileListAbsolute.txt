@@ -1,0 +1,10 @@
+D:\Source\Repos\Projects\Design Patterns\Abstract\DesignPatterns-AbstractClasses\ConsoleUI\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+D:\Source\Repos\Projects\Design Patterns\Abstract\DesignPatterns-AbstractClasses\ConsoleUI\ConsoleUI\bin\Debug\ConsoleUI.exe
+D:\Source\Repos\Projects\Design Patterns\Abstract\DesignPatterns-AbstractClasses\ConsoleUI\ConsoleUI\bin\Debug\ConsoleUI.pdb
+D:\Source\Repos\Projects\Design Patterns\Abstract\DesignPatterns-AbstractClasses\ConsoleUI\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+D:\Source\Repos\Projects\Design Patterns\Abstract\DesignPatterns-AbstractClasses\ConsoleUI\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+D:\Source\Repos\Projects\Design Patterns\Abstract\DesignPatterns-AbstractClasses\ConsoleUI\ConsoleUI\obj\Debug\ConsoleUI.exe
+D:\Source\Repos\Projects\Design Patterns\Abstract\DesignPatterns-AbstractClasses\ConsoleUI\ConsoleUI\obj\Debug\ConsoleUI.pdb
+D:\Source\Repos\Projects\Design Patterns\Abstract\DesignPatterns-AbstractClasses\ConsoleUI\ConsoleUI\bin\Debug\DemoLibrary.dll
+D:\Source\Repos\Projects\Design Patterns\Abstract\DesignPatterns-AbstractClasses\ConsoleUI\ConsoleUI\bin\Debug\DemoLibrary.pdb
+D:\Source\Repos\Projects\Design Patterns\Abstract\DesignPatterns-AbstractClasses\ConsoleUI\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
